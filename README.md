@@ -10,6 +10,10 @@
 
 在 Release 页面， 下载模型文件后保存在 `models` 文件夹下
 
+  * UVR-MDX-NET-Inst_HQ_5.onnx
+  
+  * UVR-MDX-NET-Inst_HQ_3.onnx
+
 
 ## Usage
 
@@ -34,7 +38,7 @@ python extract_vocals.py
 ```
 
   人声会生成在 `wav/vocal` 目录下
-  
+
   背景伴奏音乐会生成在 `wav/music` 目录下
 
 ## Quality
