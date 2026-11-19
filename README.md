@@ -34,6 +34,7 @@ python extract_vocals.py
 ```
 
   人声会生成在 `wav/vocal` 目录下
+  
   背景伴奏音乐会生成在 `wav/music` 目录下
 
 ## Quality
