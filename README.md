@@ -10,9 +10,9 @@
 
 在 Release 页面， 下载模型文件后保存在 `models` 文件夹下
 
-  * UVR-MDX-NET-Inst_HQ_5.onnx
+  * [UVR-MDX-NET-Inst_HQ_5.onnx](https://huggingface.co/hazhu/mlx-uvr-mdx-net/resolve/main/models/UVR-MDX-NET-Inst_HQ_5.onnx)
   
-  * UVR-MDX-NET-Inst_HQ_3.onnx
+  * [UVR-MDX-NET-Inst_HQ_3.onnx](https://huggingface.co/hazhu/mlx-uvr-mdx-net/resolve/main/models/UVR-MDX-NET-Inst_HQ_3.onnx)
 
 
 ## Usage
